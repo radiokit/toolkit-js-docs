@@ -242,7 +242,7 @@ of the repository http://bitbucket.org/radiokit/toolkit-js-playback
 
 Then you can just embed it in the HTML using regular script tag:
 
-::
+.. code-block:: html
 
     <script src="radiokit-toolkit-playback-1.0.2.js"></script>
 
