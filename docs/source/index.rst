@@ -7,8 +7,6 @@ infrastructure.
 
 So far it contains one library, for doing playback of RadioKit-based channels.
 
-Click here to see documentation for Playback Toolkit.
-
 Contents
 ~~~~~~~~
 
