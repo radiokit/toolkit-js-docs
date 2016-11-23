@@ -7,7 +7,7 @@ Introduction
 Playback Toolkit can be used to easily play channels broadcasted from RadioKit
 systems through the website.
 
-In the long run t is going to encapsulate a lot of sophisticated features that
+In the long run it is going to encapsulate a lot of sophisticated features that
 are hard to implement manually, such as codecs and protocol negotiation,
 handling workarounds for different browsers, sending back statistics etc.
 
