@@ -91,6 +91,7 @@ At the moment it covers the whole public API available so there's no separate
 reference:
 
 .. code-block:: html
+
     <!DOCTYPE html>
     <html>
     <head>
@@ -219,11 +220,13 @@ NPM
 If you want to use Playback Toolkit with your NPM-based projects, type
 
 ::
+
     npm install --save radiokit-toolkit-playback
 
 Then you can use it in your code like this:
 
 .. code-block:: javascript
+
     import { Channel } from 'radiokit-toolkit-playback';
 
     let channelId = "fd9a7d1c-a387-40a0-b876-2799668d6f9d";
@@ -240,6 +243,7 @@ of the repository http://bitbucket.org/radiokit/toolkit-js-playback
 Then you can just embed it in the HTML using regular script tag:
 
 ::
+
     <script src="radiokit-toolkit-playback-1.0.2.js"></script>
 
 once it's loaded, the global window.RadioKitToolkitPlayback object is available.
